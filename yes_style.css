@@ -1,5 +1,5 @@
 body {
-  background-color: #322e30;
+  background-color: #242022;
   margin: 0;
   display: flex;
   justify-content: center;
@@ -18,8 +18,8 @@ body {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  width: 80%;
-  max-width: 800px;
+  width: 90%;
+  max-width: 1500px;
   gap: 20px; /* Space between images */
 }
 .header_text {
